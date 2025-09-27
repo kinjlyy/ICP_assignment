@@ -29,3 +29,5 @@ class Solution {
 		}
 	}
 }
+
+TC - O(N²)
