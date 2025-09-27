@@ -14,3 +14,5 @@ class Solution {
         
     }
 }
+
+TC - O(n log k)
